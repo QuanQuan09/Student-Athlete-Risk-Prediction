@@ -129,7 +129,7 @@ Model performance can be evaluated using:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/student-athlete-risk-prediction.git
+git clone https://github.com/QuanQuan09/student-athlete-risk-prediction.git
 cd student-athlete-risk-prediction
 ```
 
